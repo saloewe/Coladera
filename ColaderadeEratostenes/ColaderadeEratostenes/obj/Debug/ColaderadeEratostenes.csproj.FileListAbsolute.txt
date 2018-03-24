@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\ColaderadeEratostenes\ColaderadeEratostenes\bin\Debug\ColaderadeEratostenes.exe.config
+C:\Users\Admin\source\repos\ColaderadeEratostenes\ColaderadeEratostenes\bin\Debug\ColaderadeEratostenes.exe
+C:\Users\Admin\source\repos\ColaderadeEratostenes\ColaderadeEratostenes\bin\Debug\ColaderadeEratostenes.pdb
+C:\Users\Admin\source\repos\ColaderadeEratostenes\ColaderadeEratostenes\obj\Debug\ColaderadeEratostenes.csprojResolveAssemblyReference.cache
+C:\Users\Admin\source\repos\ColaderadeEratostenes\ColaderadeEratostenes\obj\Debug\ColaderadeEratostenes.Form1.resources
+C:\Users\Admin\source\repos\ColaderadeEratostenes\ColaderadeEratostenes\obj\Debug\ColaderadeEratostenes.Properties.Resources.resources
+C:\Users\Admin\source\repos\ColaderadeEratostenes\ColaderadeEratostenes\obj\Debug\ColaderadeEratostenes.csproj.GenerateResource.Cache
+C:\Users\Admin\source\repos\ColaderadeEratostenes\ColaderadeEratostenes\obj\Debug\ColaderadeEratostenes.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\ColaderadeEratostenes\ColaderadeEratostenes\obj\Debug\ColaderadeEratostenes.exe
+C:\Users\Admin\source\repos\ColaderadeEratostenes\ColaderadeEratostenes\obj\Debug\ColaderadeEratostenes.pdb
